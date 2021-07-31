@@ -1,0 +1,9 @@
+.frontDeskReservationView {
+  float: left;
+  margin: 50px 200px;
+}
+
+.paidReservationsView {
+  float: right;
+  margin: 50px 200px;
+}

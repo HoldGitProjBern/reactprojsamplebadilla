@@ -1,0 +1,15 @@
+.reservationBox {
+  margin: 1rem;
+  border-width: 1px;
+  border-color: black;
+  border-style: solid;
+  padding: 8px;
+}
+
+.roomDetails,
+.paidReservation {
+  border-width: 1px;
+  border-color: black;
+  border-style: solid;
+  margin: 5px;
+}

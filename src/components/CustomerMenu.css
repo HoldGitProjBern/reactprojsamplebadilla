@@ -1,0 +1,15 @@
+
+.roomsContainer {
+    width: 75%;
+    float:left;
+    margin:0 auto;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    gap : 2em;
+}
+
+.reservationsContainer{
+    width:25%;
+    float:right;
+}
+
